@@ -1,0 +1,10 @@
+.age .chart{
+   width: 550px;
+}
+.age .recharts-responsive-container{
+   padding: 15px 0;
+}
+.age .recharts-default-legend{
+   border-bottom:solid 1px var(--light-color) ;
+   padding-bottom: 10px !important;
+}

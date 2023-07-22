@@ -1,0 +1,54 @@
+.InseminationTable{
+   height: 400px;
+/*    width: 43%; */
+   padding:0;
+   border-radius: 8px;
+   direction: ltr;
+}
+
+.Watch .InseminationTable .MuiDataGrid-columnHeaders{
+   background: rgba(84, 55, 180, 0.22);
+}
+.Watch .InseminationTable .MuiDataGrid-virtualScroller,
+.Watch .InseminationTable .MuiDataGrid-footerContainer{
+   background: white;
+}
+
+/* .Watch .InseminationTable .MuiDataGrid-footerContainer{
+   border-radius: 0 0 8px 8px;
+}
+.MuiDataGrid-root{
+   border-radius: 8px !important;
+} */
+.Watch .InseminationTable .MuiDataGrid-columnHeaders,
+.Watch .InseminationTable .MuiDataGrid-cell,
+.Watch .InseminationTable .MuiDataGrid-columnHeader--withRightBorder{
+   border-color: rgb(216, 216, 216);
+}
+
+/* .MuiDataGrid-root.MuiDataGrid-root--densityStandard {
+   direction: ltr !important;
+   transform: rotateY(180deg);
+}
+
+.MuiButtonBase-root .MuiButton-root.MuiButton-text.MuiButton-textPrimary {
+   transform: rotateY(180deg);
+   color: #141414 !important;
+}
+
+.MuiDataGrid-columnHeaderTitle,
+.MuiDataGrid-cellContent,
+.MuiDataGrid-cellCheckbox .MuiSvgIcon-fontSizeMedium,
+.MuiDataGrid-footerContainer,
+.MuiDataGrid-overlay {
+   transform: rotateY(180deg);
+} */
+
+/* .MuiButton-startIcon.MuiButton-iconSizeSmall {
+   margin-left: -2px !important;
+   margin-right: 8px !important;
+}
+
+.css-t89xny-MuiDataGrid-columnHeaderTitle {
+   width: 50px;
+} */

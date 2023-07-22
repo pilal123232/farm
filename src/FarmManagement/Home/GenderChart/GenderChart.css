@@ -1,0 +1,11 @@
+.GenderChart .recharts-legend-item{
+   display: flex !important;
+   align-items: center;
+   gap: 1rem;
+   margin-bottom: 10px;
+}
+.GenderChart bdi{
+   white-space: nowrap;
+   text-shadow: 1px 1px rgba(0, 0, 0, 0.2),1px 1px rgba(0, 0, 0, 0.2);;
+   padding: 10px;
+}

@@ -1,0 +1,100 @@
+.CowTable{
+   height: 400px;
+   min-width: 510px;
+   padding:0;
+   border-radius: 8px;
+   direction: ltr;
+}
+
+.Watch .CowTable .MuiDataGrid-columnHeaders{
+   background: rgba(84, 55, 180, 0.22);
+}
+.Watch .CowTable .MuiDataGrid-virtualScroller,
+.Watch .CowTable .MuiDataGrid-footerContainer{
+   background: white;
+}
+
+.Watch .CowTable .MuiDataGrid-footerContainer{
+   border-radius: 0 0 8px 8px;
+}
+.MuiDataGrid-root{
+   border-radius: 8px !important;
+}
+.Watch .CowTable .MuiDataGrid-columnHeaders,
+.Watch .CowTable .MuiDataGrid-cell,
+.Watch .CowTable .MuiDataGrid-columnHeader--withRightBorder{
+   border-color: rgb(216, 216, 216);
+}
+
+button[title="فرز"]{
+   display: none;
+}
+
+
+.cellAction{
+   display: flex;
+   align-items: center;
+   gap: 15px;
+}
+.editButton{
+   padding: 2px 5px;
+   border-radius: 5px;
+   color: darkblue;
+   border: 1px solid rgba(0, 0, 139, 0.541);
+   cursor: pointer;
+}
+.deleteButton{
+   padding: 2px 5px;
+   border-radius: 5px;
+   color: crimson;
+   border: 1px solid rgba(220, 20, 60, 0.507);
+   cursor: pointer;
+}
+.saveButton{
+   padding: 2px 5px;
+   border-radius: 5px;
+   color: darkgreen;
+   border: 1px solid rgba(0, 100, 0, 0.548);
+   cursor: pointer;
+   /* transform: rotateY(180deg); */
+}
+.cancelButton{
+   padding: 2px 5px;
+   border-radius: 5px;
+   color: red;
+   border: 1px solid rgba(255, 0, 0, 0.534);
+   cursor: pointer;
+   /* transform: rotateY(180deg); */
+}
+
+
+/* .MuiDataGrid-root.MuiDataGrid-root--densityStandard {
+   direction: ltr !important;
+   transform: rotateY(180deg);
+}
+
+.MuiButtonBase-root .MuiButton-root.MuiButton-text.MuiButton-textPrimary {
+   transform: rotateY(180deg);
+   color: #141414 !important;
+}
+
+.MuiDataGrid-columnHeaderTitle,
+.MuiDataGrid-cellContent,
+.MuiDataGrid-cellCheckbox .MuiSvgIcon-fontSizeMedium,
+.MuiDataGrid-footerContainer,
+.MuiDataGrid-overlay,
+.MuiDataGrid-row .MuiInputBase-input,
+.editButton,
+.deleteButton,
+.cancelButton,
+.saveButton{
+   transform: rotateY(180deg);
+} */
+/* .MuiButton-startIcon.MuiButton-iconSizeSmall {
+   margin-left: -2px !important;
+   margin-right: 8px !important;
+} */
+
+/* .css-t89xny-MuiDataGrid-columnHeaderTitle {
+   width: 50px;
+} */

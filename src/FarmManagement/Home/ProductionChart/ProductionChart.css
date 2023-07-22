@@ -1,0 +1,27 @@
+.ProductionChart .bottom .chart{
+   width: 600px;
+}
+.ProductionChart .recharts-legend-item-text{
+   font-family: 'Inter';
+   font-weight: 800;
+}
+.ProductionChart .legend-item-0 .recharts-legend-item-text{
+   text-shadow: 1px 1px rgba(41, 192, 109, 0.3),-1px -1px rgba(41, 192, 109, 0.3);
+}
+.ProductionChart .legend-item-1 .recharts-legend-item-text{
+   text-shadow: 1px 1px rgba(253, 173, 21, 0.3),-1px -1px rgba(253, 173, 21, 0.3);;
+}
+.ProductionChart .recharts-default-legend{
+   display: flex;
+   justify-content: space-between;
+   width: 300px;
+}
+.ProductionChart .recharts-legend-item{
+   display: flex !important;
+   align-items: center;
+   gap: 1rem;
+}
+.ProductionChart .top{
+   display: flex;
+   justify-content: left;
+}

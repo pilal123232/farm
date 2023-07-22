@@ -1,0 +1,334 @@
+{
+  "Health": [
+    {
+      "id": 1,
+      "age": 11,
+      "gender": "ذكر",
+      "disease": "الحصبة",
+      "treatment": "مضاد",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 2,
+      "age": 20,
+      "gender": "أنثى",
+      "disease": 42,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 3,
+      "age": 5,
+      "gender": "ذكر",
+      "disease": 45,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 4,
+      "age": 60,
+      "gender": "ذكر",
+      "disease": 16,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 5,
+      "age": 40,
+      "gender": "ذكر",
+      "disease": null,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 6,
+      "age": 30,
+      "gender": null,
+      "disease": 150,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 7,
+      "age": 50,
+      "gender": "ذكر",
+      "disease": 44,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 8,
+      "age": 5,
+      "gender": "ذكر",
+      "disease": 36,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 9,
+      "age": 7,
+      "gender": "أنثى",
+      "disease": 65,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 10,
+      "age": 11,
+      "gender": "ذكر",
+      "disease": 35,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 11,
+      "age": 11,
+      "gender": "ذكر",
+      "disease": 35,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 12,
+      "age": 20,
+      "gender": "أنثى",
+      "disease": 42,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 13,
+      "age": 5,
+      "gender": "ذكر",
+      "disease": 45,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 14,
+      "age": 60,
+      "gender": "ذكر",
+      "disease": 16,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 15,
+      "age": 40,
+      "gender": "ذكر",
+      "disease": null,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 16,
+      "age": 30,
+      "gender": null,
+      "disease": 150,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 17,
+      "age": 50,
+      "gender": "ذكر",
+      "disease": 44,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 18,
+      "age": 5,
+      "gender": "ذكر",
+      "disease": 36,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    },
+    {
+      "id": 19,
+      "age": 7,
+      "gender": "أنثى",
+      "disease": 66,
+      "treatment": "htdht",
+      "date": "2022/2/2"
+    }
+  ],
+  "PreventiveVaccine": {
+    "Name": "",
+    "date": ""
+  },
+  "MedicalCondition": {
+    "id": "",
+    "disease": "",
+    "treatment": "",
+    "date": ""
+  },
+  "NewCow": {
+    "CowID": "3",
+    "FatherId": "3",
+    "MotherId": "4",
+    "BirthDate": "2023-05-09",
+    "Gender": "ذكر",
+    "Status": "بالغ",
+    "Weight": "44"
+  },
+  "Insemination": {
+    "IdInsem": "505",
+    "InseminationType": "8551",
+    "InseminatedBullId": "651",
+    "InseminationDate": "2023-05-04"
+  },
+  "NumberAccordingAge": [
+    {
+      "month": 1,
+      "number": 5
+    },
+    {
+      "month": 2,
+      "number": 60
+    },
+    {
+      "month": 3,
+      "number": 25
+    },
+    {
+      "month": 4,
+      "number": 65
+    },
+    {
+      "month": 5,
+      "number": 20
+    },
+    {
+      "month": 6,
+      "number": 25
+    },
+    {
+      "month": 7,
+      "number": 39
+    },
+    {
+      "month": 8,
+      "number": 20
+    },
+    {
+      "month": 9,
+      "number": 25
+    },
+    {
+      "month": 10,
+      "number": 39
+    }
+  ],
+  "GenderNumber": [
+    {
+      "name": "ذكور",
+      "number": 90
+    },
+    {
+      "name": "إناث",
+      "number": 380
+    }
+  ],
+  "ProductionData": [
+    {
+      "name": "day 1",
+      "feed": 20,
+      "milk": 5
+    },
+    {
+      "name": "day 2",
+      "feed": 30,
+      "milk": 60
+    },
+    {
+      "name": "day 3",
+      "feed": 50,
+      "milk": 25
+    },
+    {
+      "name": "day 4",
+      "feed": 36,
+      "milk": 65
+    },
+    {
+      "name": "day 5",
+      "feed": 23,
+      "milk": 20
+    },
+    {
+      "name": "day 6",
+      "feed": 11,
+      "milk": 25
+    },
+    {
+      "name": "day 7",
+      "feed": 30,
+      "milk": 39
+    }
+  ],
+  "InseminationData": [
+    {
+      "id": 1,
+      "bullId": 4,
+      "type": "محلي",
+      "day": 15
+    },
+    {
+      "id": 2,
+      "bullId": 4,
+      "type": "محلي",
+      "day": 15
+    },
+    {
+      "id": 3,
+      "bullId": 4,
+      "type": "محلي",
+      "day": 15
+    },
+    {
+      "id": 4,
+      "bullId": 4,
+      "type": "محلي",
+      "day": 15
+    }
+  ],
+  "CowData": [
+    {
+      "id": 1,
+      "FatherId": 4,
+      "MotherId": 5,
+      "Age": 23,
+      "Gender": "أنثى",
+      "Status": "حامل",
+      "Weight": 20
+    },
+    {
+      "id": 2,
+      "FatherId": 4,
+      "MotherId": 5,
+      "Age": 23,
+      "Gender": "أنثى",
+      "Status": "حامل",
+      "Weight": 20
+    },
+    {
+      "id": 3,
+      "FatherId": 4,
+      "MotherId": 5,
+      "Age": 23,
+      "Gender": "أنثى",
+      "Status": "حامل",
+      "Weight": 20
+    },
+    {
+      "id": 4,
+      "FatherId": 4,
+      "MotherId": 5,
+      "Age": 23,
+      "Gender": "أنثى",
+      "Status": "حامل",
+      "Weight": 20
+    }
+  ]
+}

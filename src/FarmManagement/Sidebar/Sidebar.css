@@ -1,0 +1,24 @@
+.Sidebar{
+   background: linear-gradient(180deg,var(--navy-blue-color),var(--violet-color)); 
+   color: var(--gray-color);
+   min-height: 100vh;
+}
+.Sidebar div{
+   height: 50px;
+}
+.Sidebar ul li a{
+   display: flex;
+   align-items: center;
+}
+.Sidebar a { 
+   color: var(--gray-color);
+}
+.Sidebar a:hover,
+.Sidebar a:focus,
+.Sidebar .active{
+   color: white;
+}
+
+ul hr{
+   width: 85%;
+}

@@ -1,0 +1,20 @@
+import React from "react"
+
+const Cowface = () => {
+   return(
+      <svg width="33" height="29" viewBox="0 0 33 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <path d="M11.6015 12.3312C11.6015 12.3312 10.0713 12.2279 9.67914 11.8595C9.28697 11.4911 9.28697 10.8937 9.67914 10.5253C10.0713 10.1569 10.7072 10.1569 11.0994 10.5253C11.4916 10.8937 11.6015 12.3312 11.6015 12.3312Z" fill="black"/>
+         <path d="M8.3164 10.0556L9.33962 5.69334C9.33962 5.69334 5.48286 5.39758 6.07318 2.18134C6.07318 2.18134 11.0712 3.73403 12.488 2.40313C12.488 2.40313 15.6201 -0.740379 20.6205 2.38289C22.2889 3.42502 27.0353 2.1611 27.0353 2.1611C27.6256 5.37735 23.7688 5.6731 23.7688 5.6731L24.792 10.0354" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M12.7669 19.3787H20.6639C20.8005 19.3787 20.9312 19.4323 21.0195 19.5302C21.4447 20.0015 22.5983 21.5808 22.0711 24.3871C21.9789 24.8779 21.4863 25.2087 20.9646 25.1184C19.2192 24.8162 15.2783 24.2744 12.549 24.9645C11.9938 25.1049 11.4411 24.7503 11.3724 24.2141C11.2208 23.0294 11.2139 21.0874 12.3819 19.5592C12.4698 19.4442 12.6162 19.3787 12.7669 19.3787V19.3787Z" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M13.4624 21.3962C13.4624 21.3962 13.1177 22.7429 15.046 22.7764" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M13.0911 26.6738C13.0911 26.6738 16.2788 30.4077 20.0174 26.8217" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M7.26117 7.18712C5.72251 6.26372 3.55581 5.02329 1.01687 5.61041C1.01687 5.61041 0.269127 12.2278 8.73034 12.9302L9.33959 13.3458C9.33959 13.3458 8.18938 17.5523 9.9732 20.941" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M21.5066 12.3095C21.5066 12.3095 23.0368 12.2062 23.429 11.8378C23.8212 11.4694 23.8212 10.872 23.429 10.5036C23.0368 10.1352 22.4009 10.1352 22.0087 10.5036C21.6166 10.872 21.5066 12.3095 21.5066 12.3095Z" fill="black"/>
+         <path d="M20.1481 21.3755C20.1481 21.3755 20.4928 22.7222 18.5645 22.7557" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+         <path d="M25.9693 7.09463C27.4995 6.20406 29.619 5.01834 32.0915 5.59009C32.0915 5.59009 32.8392 12.2075 24.378 12.9099L23.7687 13.3255C23.7687 13.3255 25.0433 17.0883 23.2595 20.4771" stroke="black" strokeOpacity="0.7" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+      </svg>
+   )
+}
+
+export default Cowface;
+

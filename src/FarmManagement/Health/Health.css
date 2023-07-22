@@ -1,0 +1,26 @@
+.containt .btn{
+   background-color: var(--violet-color);
+   border-radius: 25px;
+   border: none;
+}
+.containt .btn:hover{
+   background: rgba(89, 58, 182, 1);
+}
+.form-control{
+   border-radius: 15px;
+   border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.col-form-label{
+   font-size: 15px;
+}
+legend{
+   font-size: 20px;
+}
+.form-control:focus,
+.form-control:active,
+.form-control:hover,
+.form-control:hover{
+   border-color : rgba(0, 0, 0, 0.466);
+   color: rgb(51,51,51);
+   box-shadow :none;
+}

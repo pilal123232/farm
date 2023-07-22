@@ -1,0 +1,28 @@
+.Home .Widgets , .middle , .footer{
+   padding: 20px;
+   gap: 20px;
+}
+
+.Home .middle .ProductionChart{
+   flex : 3;
+   padding: 10px;
+   border-radius: 8px;
+}
+
+.Home .middle .GenderChart{
+   flex: 2;
+   padding: 10px;
+   border-radius: 8px;
+}
+
+.Home .footer .vaccinated{
+   flex: 1;
+   border-radius: 8px;
+}
+.Home .footer .age {
+   flex: 1;
+   border-radius: 8px;
+}
+
+
+
